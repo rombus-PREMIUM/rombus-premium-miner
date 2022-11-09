@@ -15,3 +15,4 @@ BUG PATCHES:
 no longer will you recive the invalid card error as we made a mode for ALL CPUS AND GPUS
 
 thats all!
+yay!
